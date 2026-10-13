@@ -1,6 +1,6 @@
 # My Web Development Capstone
 
-> Replace this title with your project's name.
+> RGH
 
 [![Live site](https://img.shields.io/badge/live-site-blue)](https://YOUR-HANDLE.github.io/webdev-capstone/)
 
@@ -11,7 +11,7 @@ A small, multi-page web app built in the _Introduction to Web Development_ cours
 ## What it is
 
 _One or two sentences: what does your app do and who is it for?_
-
+It is suppposed to help gamers and give then information
 ## Live site
 
 https://YOUR-HANDLE.github.io/webdev-capstone/
